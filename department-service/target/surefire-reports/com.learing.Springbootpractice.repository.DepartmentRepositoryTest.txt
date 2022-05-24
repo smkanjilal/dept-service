@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learing.Springbootpractice.repository.DepartmentRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.656 s - in com.learing.Springbootpractice.repository.DepartmentRepositoryTest

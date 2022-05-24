@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learing.Springbootpractice.service.DepartmentServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.418 s - in com.learing.Springbootpractice.service.DepartmentServiceTest
